@@ -1,4 +1,4 @@
-# blog
+# frontend-blog
 
 ## Project setup
 ```
